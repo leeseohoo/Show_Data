@@ -1,4 +1,4 @@
-# Show_Data
+# Python_ Show Random Data
 Python
 - Pandas, Matplotlib 사용
 - 랜덤 정수 데이터 가시화
